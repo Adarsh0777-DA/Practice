@@ -10,3 +10,11 @@ employees = [
 # 2. Average salary
 # 3. Employees earning more than 60000
 # 4. Sort employees by salary
+
+student = {
+    "name": "Adarsh",
+    "age": 22,
+    "course": "Data Analytics"
+}
+
+# Print each key and value
