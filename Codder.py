@@ -18,3 +18,12 @@ student = {
 }
 
 # Print each key and value
+
+marks = [75, 88, 92, 65, 78, 90, 55, 82]
+
+# Find:
+# Total marks
+# Average marks
+# Highest marks
+# Lowest marks
+# Number of students who scored above 80
